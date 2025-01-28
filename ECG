@@ -4,7 +4,23 @@ Tachy and Brady, inconsistent - 6 sinus syndrome
 P wave has 3 distinct patterns? - Wandering Atrial Pacemaker (The impulse can be anywhere not originating from the sinus node)
 > The Impulse originated from atrium (AV node) because if the impulse from the sinus, the pwave will look normal
 
+// Calculating heart rate
+Divided 300
+    Count  Big boxes between 2 Rs and divide the 300 by the number of boxes
+Divided 1500
+    Count small boxes between 2 Rs and divide the 1500 by the number of small boxes
+
 
 PAC
 
 P waves can't be seen - Atrial Fib
+
+
+Interpret:
+// A fib {
+    Ventricular response: Tachy or brady? (ex. Bradycardic ventricular response)
+
+SVT: Supraventricular Tachycardia
+    This is an umbrella term
+    Not sinus, so there is a problem in the p wave
+    
